@@ -1,0 +1,15 @@
+{
+  "name": "ethomasg/328/quiz",
+  "description": "Pet assignment repo",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ethomas",
+      "email": "thomas.evan@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
